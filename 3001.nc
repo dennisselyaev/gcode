@@ -1,4 +1,4 @@
-%;
+%
 O3001(MKRS QUAD WTH CRCTR);
 (fanuc 0i-md);
 (SELYAEV.ru - creator);
@@ -83,4 +83,4 @@ G90G40G0X#600Y#500;
 END1;
 G0Z#777;
 M99;
-%;
+%
