@@ -1,5 +1,5 @@
 %;
-O8899;
+O3001(MKRS QUAD WTH CRCTR);
 (fanuc 0i-md);
 (SELYAEV.ru - creator);
 (Cutting quad with offset x and y, corrector tool);
