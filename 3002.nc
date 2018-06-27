@@ -1,7 +1,10 @@
 %
 O3002(MKRS RGHT CRVNG UP);
+(fanuc 0i-md);
+(SELYAEV.ru - creator);
+(Right carving with offset x and y, corrector tool -1/2 step);
 N41GOTO#22;
-N300
+N300;
 G90G0X#25Y#25;
 Z#18M8;
 #1=#7/2.;
