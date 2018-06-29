@@ -1,5 +1,8 @@
 %
 O3003(MLNG HLS IN SPRL);
+(fanuc 0i-md);
+(SELYAEV.ru - creator);
+(Milling holes with offset x and y, corrector);
 #1=#1(START Z);
 #2=#2(END Z);
 IF[#1LT#2]GOTO1;
